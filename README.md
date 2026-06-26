@@ -1,6 +1,6 @@
 # 📢 Leitor de Texto em Voz Alta
 
-Lê qualquer texto em voz alta com interface simples e acessível. Ideal para escolas e alunos com dificuldades de leitura. Funciona também como monitor automático — basta copiar um texto em qualquer site para ouvi-lo instantaneamente.
+Lê qualquer texto em voz alta com interface simples e acessível. Ideal para escolas e alunos com dificuldades de leitura. Funciona também como monitor automático, basta copiar um texto em qualquer site para ouvi-lo instantaneamente.
 
 ## ✅ Requisitos
 
